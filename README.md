@@ -1,4 +1,4 @@
-# Interesting role of log functions in ANN
+# Interesting role of log functions in ANN for scaling steep outputs
 ## Failed-simple ANN-on-Rosenbrock-s-Function
 This is a section where simple ANN algorithm with all type of activation functions were failed. While running prediction on a simple function mainly called as Rosenbrock function because of its steepness.
 Rosenbrock function has steepness in such a way that for coordinate (0,0), it is around 0 and at just next adjecent coordinate (0,1), it goes around 10^4 or more.
